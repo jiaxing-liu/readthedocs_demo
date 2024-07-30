@@ -1,0 +1,8 @@
+site_name: garnet技术笔记
+nav:
+  - Home: index.md
+  - 文件归档:
+      - 次级归档:
+          - 文章标题: docs/abc.md
+theme:
+  name: readthedocs
